@@ -1,0 +1,451 @@
+.menu
+{
+	width: 90%;
+	height: auto;
+	margin: auto;
+	background:#f1f1f1;
+}
+.box1{
+	height: 62px;
+	width: 100%;
+	float: left;
+	padding: 10px 0;
+}
+.bit1{
+	width: 20%;
+	height: 100%;
+	float: left;
+}
+.bit2{
+	width: 20%;
+	height: 100%;
+	float: left;
+}
+.bat{
+	width: 100%;
+	height: 50%;	
+}
+.bit3{
+	width: 40%;
+	height: 100%;
+	float: left;
+}
+.bit4{
+	width: 20%;
+	height: 100%;
+	float: left;
+}
+.box2{
+	height: 20px;
+	width: 100%;
+}
+#box2 ul{
+list-style-type: none;one;
+background: #141530;
+text-align: center;
+overflow: hidden;
+/*margin: 0;
+padding: 0;*/
+
+}
+#box2 ul li {
+  float: left;
+}
+#box2 ul li a{
+	color: #f1f1f1;
+	text-decoration: none;
+	display: block;
+	font-size: 15px;
+	font-family: "Roboto", sans-serif;
+	text-align: center;
+  	padding: 8px 10px;	
+  	font-size: 14px;
+}
+#box2 ul li a:hover {
+	background: #1570ad;
+	color:#333;
+}
+.bot{
+	width: 10%;
+	height: 100%;
+	float: left;
+}
+.box3{
+	width: 100%;
+	height: 330px;
+}
+.hinh1{
+	height: 100%;
+	width: 73%;
+	float: left;
+	background: black;
+}
+.hinh2{
+	height: 100%;
+	width: 25%;
+	float: left;
+	margin-left: 2%;
+}
+.tao{
+	height: 48%;
+	width: 100%;
+	background: blue;
+}
+.box4{
+	height: 400px;
+	width: 100%;
+	margin-top: 10px;
+}
+.te{
+	width: 73%;
+	height: 100%;
+	float: left;
+}
+.tea{
+	width: 25%;
+	height: 100%;
+	float: left;
+	margin-left: 2%;
+	
+}
+.xa{
+	width: 100%;
+	height: 50px;
+	margin-bottom: 5px;
+	float: left;
+}
+.xe{
+	width: 100%;
+	height: 300px;
+}
+.xi{
+	width: 100%;
+	height: 45px;
+}
+.te1{
+	width: 100%;
+	height: 30px;
+	margin-bottom: 5px;
+}
+.to{
+	width: 20%;
+	height: 100%;
+	float: left;
+}
+.te2{
+	width: 100%;
+	height: 330px;
+	float: left;
+}
+.minh{
+	width: 32%;
+	height: 100%;
+	float: left;
+}
+.anh{
+	width: 100%;
+	height: 65%;
+	background: red;
+	float: left;
+}
+.chu{
+	width: 100%;
+	height: 35%;
+	float: left;
+}
+.chu h5{
+	font-weight: normal;
+	font-size: 15px;
+	text-transform: none;
+	line-height: 22px;
+}
+.chu p{
+	font-size: 13px;
+}
+.box5{
+	width: 100%;
+	height: 500px;
+	/*background: red;*/
+	/*float: left;*/
+}
+.su{
+	width: 75%;
+	height: 100%;
+	float: left;
+}
+.fi{
+	width: 100%;
+	height: 10%;
+}
+.se{
+	width: 23%;
+	height: 100%;
+	float: left;
+	margin-left: 2%;
+
+	
+}
+.see{
+	width: 100%;
+	height: 48%;
+	float: left;
+	background: black;
+}
+.top-main-center {
+	width: 100%;
+	height: 45%;
+}
+.dama{
+	width: 23.5%;
+	height: 100%;
+	float: left;
+}
+.dimi{
+	width: 100%;
+	height: 80%;
+	float: left;
+}
+.deme{
+	width: 100%;
+	height: 20%;
+	float: left;
+}
+.bottom-main-center {
+	width: 100%;
+	height: 45%;
+}
+
+.suee{
+	width: 25%;
+	height: 100%;
+	background: green;
+	float: left;
+}
+.main-center {
+	clear: both;
+	height: 100%;
+	width: 100%;
+}
+.deme h5{
+	font-weight: normal;
+    font-size: 15px;
+    text-transform: none;
+    line-height: 22px;
+}
+.mina{
+	width: 25%;
+	height: 100%;
+	background: red;
+	margin: 0;
+	padding: 0;
+}
+.box6{
+	/*clear: both;*/
+	width: 100%;
+	height: 280px;
+	margin-top: 50px;
+	/*background: red;*/
+}
+.tham{
+	width: 75%;
+	height: 100%;
+	float: left;
+/*	background: black;*/
+}
+.babe{
+	width: 23%;
+	height: 100%;
+	float: left;
+	background: green;
+	margin-left: 2%;
+}
+.vi{
+	width: 100%;
+	height: 50px;
+	background: white;
+}
+.vu{
+	width: 100%;
+	height: 230px;
+	/*background: green;*/
+}
+.phan{
+	width: 23.5%;
+	height: 100%;
+	/*background: blue;*/
+	float: left;
+}
+.phan h5{
+	font-weight: normal;
+    font-size: 15px;
+    text-transform: none;
+    line-height: 22px;
+}
+.ba{
+	width: 100%;
+	height: 75%;
+	/*background: white;*/
+
+}
+.tu{
+	width: 100%;
+	height: 25%;
+/*	background: black;*/
+	float: left;
+}
+.box7{
+	width: 100%;
+	height:auto;
+	/*background: green;*/
+}
+.taisao{
+	width: 100%;
+	height: 50px;
+}
+.taivi{
+	width: 100%;
+	height: 50px;
+}
+.taithe{
+	width: 100%;
+	height: 100px;
+	/*background: green;*/
+}
+.the{
+	width: 33%;
+	height: 100%;
+	/*background: blue;*/
+	float: left;
+	margin: 0.15%;
+}
+.thieu{
+	width: 20%;
+	height: 100%;
+	/*background: black;*/
+	float: left;
+}
+.than{
+	width: 80%;
+	height: 100%;
+	float: left;
+}
+.taivingu{
+	width: 100%;
+	height: 100px;
+	/*background: red;*/
+}
+.box8{
+	width: 100%;
+	height: auto;
+	/*background: green;*/
+	margin-top: 50px;
+}
+.ma{
+	width: 75%;
+	height: 350px;
+	/*background: green;*/
+	float: left;
+}
+.maa{
+	width: 100%;
+	height: 50px;
+	/*background: red;*/
+}
+.mii{
+	width: 100%;
+	height: 150px;
+	/*background:black;*/
+}
+.dan{
+	width: 48%;
+	height: 100%;
+	/*background: blue;*/
+	float: left;
+}
+.dann{
+	width: 26%;
+	height: 100%;
+	float: left;
+	margin-right: 4%;
+}
+.dinn{
+	width: 70%;
+	height: 100%;
+	float: left;
+}
+.mi{
+	width: 23%;
+	height: 350px;
+	/*background: black;*/
+	margin-left: 2%;
+	float: left;
+}
+.box9{
+	height: auto;
+	width: 100%;
+	/*background: green;*/
+	float: left;
+}
+.beta{
+	width: 100%;
+	height: 100px;
+	/*background: red;*/
+}
+.bede{
+	width: 100%;
+	height: 200px;
+	/*background: black;*/
+}
+.be{
+	width: 25%;
+	height: 100%;
+	float: left;
+	/*background: red;*/
+}
+.ki{
+	width: 100%;
+	height: 80%;
+}
+.fo{
+	width: 100%;
+	height: 33%;
+	/*background: black;	*/
+}
+.foo{
+	width: 20%;
+	height: 100%;
+	/*background: green;*/
+	float: left;
+}
+.sad{
+	width: 100%;
+	height: 20%;
+}
+.bee{
+	width: 100%;
+	height: 25%;
+	background: #f1f1f1;
+	float: left;
+}
+.bung{
+	width: 20%;
+	height: 100%;
+	float: left;
+	/*background: black;
+*/
+}
+.bang{
+	width: 80%;
+	height: 100%;
+	float: left;
+}
+.tata{
+	width: 100%;
+	height: 60px;
+	float: left;
+	background: #001133;
+}
+.tata p{
+font-size: 14px;
+color: #9999ff;
+}
